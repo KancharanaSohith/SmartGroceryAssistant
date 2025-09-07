@@ -1,0 +1,16 @@
+# Database
+grocery_assistant.db
+grocery_assistant.db-journal
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+
+# IDEs
+.vscode/
+.idea/
